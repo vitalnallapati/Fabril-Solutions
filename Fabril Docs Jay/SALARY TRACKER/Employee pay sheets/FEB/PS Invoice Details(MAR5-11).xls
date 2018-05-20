@@ -1,0 +1,1676 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="cols" border="1" id="ctl00_cphMainContent_rgInvoiceDetails_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">&nbsp;</th><th scope="col">Invoice No</th><th scope="col">Job ID</th><th scope="col">Req ID</th><th scope="col">Technician</th><th scope="col">Skill Code</th><th scope="col">Approved Date</th><th scope="col">Completed Date</th><th scope="col">Payment Code</th><th scope="col">Variation Ref No</th><th scope="col">Quantity</th><th scope="col">Cost</th><th scope="col">Invoice Value</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">1872496</td><td>08876418</td><td>Daljinder Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA Complex Internal Wiring</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">1872496</td><td>08876418</td><td>Daljinder Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-701</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">1872496</td><td>08876418</td><td>Daljinder Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>Z999</td><td>no scope and consent upload on ETA, build will be </td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">1872496</td><td>08876418</td><td>Daljinder Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA564B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            625.48
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -625.48
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2029716</td><td>01316188</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA Complex Internal Wiring</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2029716</td><td>01316188</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-701</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2029716</td><td>01316188</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-714</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -41.38
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2029716</td><td>01316188</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-714</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -41.38
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2029716</td><td>01316188</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2038491</td><td>01601822</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA Complex Internal Wiring</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2038491</td><td>01601822</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA-701</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            48.39
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2038491</td><td>01601822</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA-714</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -41.38
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2038491</td><td>01601822</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA-714</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -41.38
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2038491</td><td>01601822</td><td>Jaswinderpal Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2191414</td><td>04672079</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-D02</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">4</td><td style="mso-number-format:$0.00;">
+                            21.97
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            87.88
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2191414</td><td>04672079</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-D03</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">5</td><td style="mso-number-format:$0.00;">
+                            42.59
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            212.95
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2207446</td><td>05081330</td><td>Jasmeet Singh90</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-MB19.1</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            43.78
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            43.78
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2218260</td><td>05276388</td><td>Kranthi Thota</td><td>P-NGA-OSB REMED-ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA-F02577</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">56</td><td style="mso-number-format:$0.00;">
+                            11.93
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            668.08
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2226543</td><td>05471322</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561C</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2231567</td><td>05314716</td><td>Venkat Gorla</td><td>P-NGA-BUILD ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>NGA-714</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            41.38
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2238647</td><td>05702621</td><td>Karmjeet Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA560B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            187.32
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            187.32
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2238938</td><td>05722167</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561C</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2239054</td><td>05579713</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2239054</td><td>05579713</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2239054</td><td>05579713</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2239937</td><td>05737996</td><td>Venkat Gorla</td><td>&nbsp;</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561C</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2242131</td><td>05774998</td><td>Siddhartha Doma</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2242131</td><td>05774998</td><td>Siddhartha Doma</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2242142</td><td>05775406</td><td>Venkat Gorla</td><td>&nbsp;</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2242143</td><td>05775426</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2243266</td><td>05792784</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2243266</td><td>05792784</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245120</td><td>05859496</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245129</td><td>05859544</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA564BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            881.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            881.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245392</td><td>05858943</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-753</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            68.2
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            68.2
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245392</td><td>05858943</td><td>Gurinderjeet Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245392</td><td>05858943</td><td>Gurinderjeet Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2245394</td><td>05874469</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2246508</td><td>05267220</td><td>Siddhartha Doma</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561C</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2246509</td><td>05267200</td><td>Siddhartha Doma</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2248260</td><td>05919351</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2249539</td><td>05874825</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2249540</td><td>05874810</td><td>Anakhbir Singh</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2249908</td><td>05936683</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561C</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            205.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2250236</td><td>05962461</td><td>Venkat Gorla</td><td>&nbsp;</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA560BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            414.92
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            414.92
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2250580</td><td>05918104</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2250580</td><td>05918104</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251073</td><td>05934679</td><td>Gurinderjeet Singh</td><td>P-NGA-OSB REMED-ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>N-F03MAT</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">80</td><td style="mso-number-format:$0.00;">
+                            1
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            80
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251073</td><td>05934679</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>NGA-B19</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            88.18
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            88.18
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251073</td><td>05934679</td><td>Gurinderjeet Singh</td><td>P-NGA-OSB REMED-ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>NGA-F03577</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">36</td><td style="mso-number-format:$0.00;">
+                            11.93
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            429.48
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251073</td><td>05934679</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>NGA-MB19.1</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            43.78
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            43.78
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251851</td><td>05963392</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251851</td><td>05963392</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA562B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            254.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -254.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2251851</td><td>05963392</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252056</td><td>05972696</td><td>Ganga Reddy Nimmala</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252056</td><td>05972696</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252056</td><td>05972696</td><td>Ganga Reddy Nimmala</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252056</td><td>05972696</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252056</td><td>05972696</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252246</td><td>05944139</td><td>Prabhjot Singh92</td><td>P-NGA-BUILD ABF</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2252246</td><td>05944139</td><td>Prabhjot Singh92</td><td>P-NGA-BUILD ABF</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2253007</td><td>05984346</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2253967</td><td>06019762</td><td>Siddhartha Doma</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2254744</td><td>06026191</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2254745</td><td>06026198</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2255386</td><td>06026349</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2255585</td><td>05904926</td><td>Daljinder Singh</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2257220</td><td>06074609</td><td>Prabhjot Singh92</td><td>P-NGA-OSB REMED-ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>NGA Outside Boundary Remediation/Build</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2258883</td><td>06130777</td><td>Siddhartha Doma</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2258883</td><td>06130777</td><td>Siddhartha Doma</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA562B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            254.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -254.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2258883</td><td>06130777</td><td>Siddhartha Doma</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260083</td><td>06149731</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>Z999</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260083</td><td>06149731</td><td>Prasannakumar Bayri</td><td>P-NGA-BUILD ABF</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">-1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            -194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260177</td><td>06143647</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260213</td><td>06138679</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260834</td><td>06092506</td><td>Venkat Gorla</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260910</td><td>06144037</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2260911</td><td>06144034</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261308</td><td>06164813</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261571</td><td>06171920</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-750</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261571</td><td>06171920</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-753</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            68.2
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            68.2
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261700</td><td>06166910</td><td>Karmjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261701</td><td>06166885</td><td>Karmjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261718</td><td>06170092</td><td>Daljinder Singh</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261719</td><td>06170089</td><td>Daljinder Singh</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2261737</td><td>06169738</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262588</td><td>06184117</td><td>Daljinder Singh</td><td>P-NGA-BUILD ABF</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA562B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            254.64
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            254.64
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262589</td><td>06183813</td><td>Daljinder Singh</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262598</td><td>06177991</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262599</td><td>06177979</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262821</td><td>06187096</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2262846</td><td>06171579</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263194</td><td>06195423</td><td>Venkat Gorla</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263207</td><td>06193115</td><td>Daljinder Singh</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263227</td><td>06152049</td><td>Siddhartha Doma</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA560BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            414.92
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            414.92
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263228</td><td>06151946</td><td>Siddhartha Doma</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263253</td><td>06195350</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263254</td><td>06195346</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263327</td><td>06199962</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263328</td><td>06199908</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263370</td><td>06196673</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263371</td><td>06196671</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263642</td><td>06183673</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2263643</td><td>06183700</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264437</td><td>06212258</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264438</td><td>06212208</td><td>Venkat Gorla</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264790</td><td>06215774</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-750</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264790</td><td>06215774</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>NGA-751</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            146.76
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            146.76
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264790</td><td>06215774</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-752</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            58.84
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            58.84
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2264790</td><td>06215774</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-753</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">2</td><td style="mso-number-format:$0.00;">
+                            68.2
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            136.4
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265056</td><td>06215658</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265057</td><td>06215662</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265279</td><td>06225421</td><td>Karmjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265593</td><td>06227870</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265594</td><td>06227969</td><td>Prabhjot Singh92</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265636</td><td>06226045</td><td>Ganga Reddy Nimmala</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265637</td><td>06226057</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265680</td><td>06228375</td><td>Ganga Reddy Nimmala</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265681</td><td>06228502</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265931</td><td>06233369</td><td>Daljinder Singh</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-750</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265931</td><td>06233369</td><td>Daljinder Singh</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-762</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            60.72
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            60.72
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2265938</td><td>06237056</td><td>Daljinder Singh</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266036</td><td>06234465</td><td>Ganga Reddy Nimmala</td><td>P-NGA-SDU SITE PLAN</td><td>05-Mar-2018</td><td>05-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266049</td><td>06233527</td><td>Anakhbir Singh</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266050</td><td>06233543</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266361</td><td>06234716</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266362</td><td>06234704</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266377</td><td>06224738</td><td>Anakhbir Singh</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266378</td><td>06224752</td><td>Anakhbir Singh</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266493</td><td>06177189</td><td>Karmjeet Singh</td><td>P-NGA-BUILD ABF</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2266494</td><td>06177174</td><td>Karmjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267082</td><td>06234397</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>NGA-750</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            22.61
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267082</td><td>06234397</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>NGA-751</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            146.76
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            146.76
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267889</td><td>06267539</td><td>Gurinderjeet Singh</td><td>P-NGA-BUILD ABF</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267890</td><td>06267518</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267891</td><td>06267280</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267892</td><td>06267369</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267897</td><td>06268711</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2267898</td><td>06268695</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>06-Mar-2018</td><td>06-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268012</td><td>06268910</td><td>Prasannakumar Bayri</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268013</td><td>06268898</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268034</td><td>06269529</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268035</td><td>06269441</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268220</td><td>06259417</td><td>Siddhartha Doma</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2268931</td><td>06283286</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269455</td><td>06288726</td><td>Ganga Reddy Nimmala</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269463</td><td>06290541</td><td>Gurinderjeet Singh</td><td>P-NGA-CONNCT SDU</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269464</td><td>06290533</td><td>Gurinderjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269475</td><td>06288937</td><td>Ganga Reddy Nimmala</td><td>P-NGA-CONNCT SDU</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA562BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            498.69
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269476</td><td>06288918</td><td>Ganga Reddy Nimmala</td><td>&nbsp;</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269510</td><td>06290253</td><td>Karmjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269581</td><td>06291424</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269797</td><td>06257563</td><td>Venkat Gorla</td><td>P-NGA-CONNCT SDU</td><td>08-Mar-2018</td><td>08-Mar-2018</td><td>ZNGA563BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            626.7
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269844</td><td>06284652</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269845</td><td>06284665</td><td>Prabhjot Singh92</td><td>P-NGA-CONNCT SDU</td><td>07-Mar-2018</td><td>07-Mar-2018</td><td>ZNGA561BC</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            433.57
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269937</td><td>06295203</td><td>Ganga Reddy Nimmala</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2269938</td><td>06295220</td><td>Ganga Reddy Nimmala</td><td>P-NGA-BUILD ABF</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2270119</td><td>06303033</td><td>Prasannakumar Bayri</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2271151</td><td>06319353</td><td>Prabhjot Singh92</td><td>P-NGA-BUILD ABF</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA563B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            383.5
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2271152</td><td>06319349</td><td>Prabhjot Singh92</td><td>P-NGA-SDU SITE PLAN</td><td>09-Mar-2018</td><td>09-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2271185</td><td>06327599</td><td>Anakhbir Singh</td><td>P-NGA-BUILD ABF</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561B</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            194.94
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2271186</td><td>06327435</td><td>Anakhbir Singh</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr><tr>
+		<td>
+                            
+                        </td><td>NGA_PS_14442018_76</td><td style="mso-number-format:0;">2272360</td><td>06343550</td><td>Karmjeet Singh</td><td>P-NGA-SDU SITE PLAN</td><td>10-Mar-2018</td><td>10-Mar-2018</td><td>ZNGA561A</td><td>&nbsp;</td><td style="mso-number-format:0\.00;">1</td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td><td style="mso-number-format:$0.00;">
+                            0
+                            
+                        </td>
+	</tr>
+	</tbody>
+	<tfoot>
+		<tr style="mso-number-format:$0.00;">
+			<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+                            <span style="color: Black; font-weight: bold;">Total Invoice Value:</span>
+                        </td><td>
+                            27683.94
+                            
+                        </td>
+		</tr>
+	</tfoot>
+</table></body></html>
